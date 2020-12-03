@@ -1,6 +1,6 @@
 # Java terminal chess
 
-The Java terminal chess, is a project witch serves to study material of Java OOP. 
+The Java terminal chess, is a project which serves of study material for Java OOP.
 
 
 
