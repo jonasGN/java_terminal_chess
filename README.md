@@ -44,4 +44,5 @@ To see more about the game, [click here](https://en.wikipedia.org/wiki/Chess).
 
 ## Special thanks
 
-To Nelio Alves. This amazing master who teached me soo much in this project, about how to implement the OOP logic into my programs.
+To [Nelio Alves](https://github.com/acenelio). This amazing master who teached me so much in this project, about how to implement the OOP logic into my programs.
+
