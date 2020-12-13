@@ -12,11 +12,11 @@ To see more about the game, [click here](https://en.wikipedia.org/wiki/Chess).
 
 
 
-## Topics complete
+## Completed topics
 
 - [x] First class: Position
 - [x] Starting to implement Board and Piece
-- [ ] Chess layer and printint the board
+- [x] Chess layer and printint the board
 - [ ] Placing pieces on the board
 - [ ] BoardException and defensive programming
 - [ ] ChessException and ChessPosition
@@ -44,5 +44,5 @@ To see more about the game, [click here](https://en.wikipedia.org/wiki/Chess).
 
 ## Special thanks
 
-To [Nelio Alves](https://github.com/acenelio). This amazing master who teached me so much in this project, about how to implement the OOP logic into my programs.
+To [Nelio Alves](https://github.com/acenelio). This amazing master who teached me so much in this project, about how to implement the OOP logic into my projects.
 
