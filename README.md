@@ -17,8 +17,8 @@ To see more about the game, [click here](https://en.wikipedia.org/wiki/Chess).
 - [x] First class: Position
 - [x] Starting to implement Board and Piece
 - [x] Chess layer and printint the board
-- [ ] Placing pieces on the board
-- [ ] BoardException and defensive programming
+- [x] Placing pieces on the board
+- [x] BoardException and defensive programming
 - [ ] ChessException and ChessPosition
 - [ ] Little improvement in the board printing
 - [ ] Moving pieces
