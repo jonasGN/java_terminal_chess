@@ -34,7 +34,7 @@ Open the **bin** folder and run:
 - [x] ChessException and ChessPosition
 - [x] Little improvement in the board printing
 - [x] Moving pieces
-- [ ] Handling exceptions and clearing screen
+- [x] Handling exceptions and clearing screen
 - [ ] Possible moves of a piece
 - [ ] Implementing possible moves of Rook
 - [ ] Printing possible moves
