@@ -19,7 +19,7 @@ To see more about the game, [click here](https://en.wikipedia.org/wiki/Chess).
 - [x] Chess layer and printint the board
 - [x] Placing pieces on the board
 - [x] BoardException and defensive programming
-- [ ] ChessException and ChessPosition
+- [x] ChessException and ChessPosition
 - [ ] Little improvement in the board printing
 - [ ] Moving pieces
 - [ ] Handling exceptions and clearing screen
