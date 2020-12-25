@@ -38,7 +38,7 @@ Open the **bin** folder and run:
 - [x] Possible moves of a piece
 - [x] Implementing possible moves of Rook
 - [x] Printing possible moves
-- [ ] Implementing possible moves of King
+- [x] Implementing possible moves of King
 - [ ] Switching player each turn
 - [ ] Handling captured pieces
 - [ ] Check logic
