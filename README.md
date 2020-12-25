@@ -37,7 +37,7 @@ Open the **bin** folder and run:
 - [x] Handling exceptions and clearing screen
 - [x] Possible moves of a piece
 - [x] Implementing possible moves of Rook
-- [ ] Printing possible moves
+- [x] Printing possible moves
 - [ ] Implementing possible moves of King
 - [ ] Switching player each turn
 - [ ] Handling captured pieces
