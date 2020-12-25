@@ -35,7 +35,7 @@ Open the **bin** folder and run:
 - [x] Little improvement in the board printing
 - [x] Moving pieces
 - [x] Handling exceptions and clearing screen
-- [ ] Possible moves of a piece
+- [x] Possible moves of a piece
 - [ ] Implementing possible moves of Rook
 - [ ] Printing possible moves
 - [ ] Implementing possible moves of King
