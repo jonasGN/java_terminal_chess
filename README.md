@@ -20,7 +20,7 @@ To run this app, clone this rep into your machine:
 
 Open the **bin** folder and run:
 
-`$ Java application/App`
+`$ java application/App`
 
 
 
