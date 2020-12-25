@@ -40,7 +40,7 @@ Open the **bin** folder and run:
 - [x] Printing possible moves
 - [x] Implementing possible moves of King
 - [x] Switching player each turn
-- [ ] Handling captured pieces
+- [x] Handling captured pieces
 - [ ] Check logic
 - [ ] Checkmate logic
 - [ ] Piece move count
