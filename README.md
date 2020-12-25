@@ -39,7 +39,7 @@ Open the **bin** folder and run:
 - [x] Implementing possible moves of Rook
 - [x] Printing possible moves
 - [x] Implementing possible moves of King
-- [ ] Switching player each turn
+- [x] Switching player each turn
 - [ ] Handling captured pieces
 - [ ] Check logic
 - [ ] Checkmate logic
