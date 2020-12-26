@@ -44,7 +44,7 @@ Open the **bin** folder and run:
 - [x] Check logic
 - [x] Checkmate logic
 - [x] Piece move count
-- [ ] Pawn
+- [x] Pawn
 - [ ] Bishop
 - [ ] Knight
 - [ ] Queen
