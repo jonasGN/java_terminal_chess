@@ -43,7 +43,7 @@ Open the **bin** folder and run:
 - [x] Handling captured pieces
 - [x] Check logic
 - [x] Checkmate logic
-- [ ] Piece move count
+- [x] Piece move count
 - [ ] Pawn
 - [ ] Bishop
 - [ ] Knight
