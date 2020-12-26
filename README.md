@@ -42,7 +42,7 @@ Open the **bin** folder and run:
 - [x] Switching player each turn
 - [x] Handling captured pieces
 - [x] Check logic
-- [ ] Checkmate logic
+- [x] Checkmate logic
 - [ ] Piece move count
 - [ ] Pawn
 - [ ] Bishop
