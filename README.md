@@ -50,7 +50,7 @@ Open the **bin** folder and run:
 - [x] Queen
 - [x] Special move - Castling
 - [x] Special move - En Passant
-- [ ] Special move - Promotion
+- [x] Special move - Promotion
 
 
 
