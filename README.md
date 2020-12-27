@@ -47,7 +47,7 @@ Open the **bin** folder and run:
 - [x] Pawn
 - [x] Bishop
 - [x] Knight
-- [ ] Queen
+- [x] Queen
 - [ ] Special move - Castling
 - [ ] Special move - En Passant
 - [ ] Special move - Promotion
