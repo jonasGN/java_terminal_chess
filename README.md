@@ -46,7 +46,7 @@ Open the **bin** folder and run:
 - [x] Piece move count
 - [x] Pawn
 - [x] Bishop
-- [ ] Knight
+- [x] Knight
 - [ ] Queen
 - [ ] Special move - Castling
 - [ ] Special move - En Passant
