@@ -49,7 +49,7 @@ Open the **bin** folder and run:
 - [x] Knight
 - [x] Queen
 - [x] Special move - Castling
-- [ ] Special move - En Passant
+- [x] Special move - En Passant
 - [ ] Special move - Promotion
 
 
